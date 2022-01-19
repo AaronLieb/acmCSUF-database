@@ -20,12 +20,13 @@ CREATE TABLE IF NOT EXISTS MEMBER (
 CREATE TABLE IF NOT EXISTS CLASS (
 	id SMALLINT,
 	subject CHAR(4),
-	`number` SMALLINT(3),
+	`number` CHAR(4),
 	section TINYINT(2),
+	`name` VARCHAR(64),
 	`year` YEAR,
 	semester CHAR(6),
 	instructor VARCHAR(32),
-	location VARCHAR(16),
+	location VARCHAR(32),
 	startTime TIME,
 	endTime TIME,
 	PRIMARY KEY(id)
@@ -36,7 +37,7 @@ CREATE TABLE IF NOT EXISTS DISCORDSCHEDULE (
 	classId SMALLINT,
 	FOREIGN KEY(discordId) REFERENCES MEMBER(discordId),
 	FOREIGN KEY(classId) REFERENCES CLASS(id),
-	PRIMARY KEY(discordId)
+	PRIMARY KEY(discordId, classId)
 );
 
 CREATE TABLE IF NOT EXISTS MEMBERPATH (
