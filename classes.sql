@@ -7075,14 +7075,14 @@ INSERT INTO CLASS VALUES (15101, 'NURS', '697C', '07', 'Integrative Clinical Sch
 INSERT INTO CLASS VALUES (15120, 'NURS', '697A', '07', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'Ahlam Jadalla', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15102, 'NURS', '697C', '08', 'Integrative Clinical Scholarship III: Evidence-Based Practice', '2022', 'SPRING', 'Darlene Finocchiaro', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15121, 'NURS', '697A', '08', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'Margaret Brady', 'TBA', '00:00:00', '00:00:00', 'TBA');
-INSERT INTO CLASS VALUES (22387, 'NURS', '697C', '09', 'Integrative Clinical Scholarship III: Evidence-Based Practice', '2022', 'SPRING', 'Jean O'Neil', 'TBA', '00:00:00', '00:00:00', 'TBA');
+INSERT INTO CLASS VALUES (22387, 'NURS', '697C', '09', 'Integrative Clinical Scholarship III: Evidence-Based Practice', '2022', 'SPRING', 'Jean O\'Neil', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15122, 'NURS', '697A', '09', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'To Announced', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15123, 'NURS', '697A', '10', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'Melissa Dyo', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (21888, 'NURS', '697A', '11', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'To Announced', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (21889, 'NURS', '697A', '12', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'Joy Goebel', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (21892, 'NURS', '697A', '15', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'Glenn Raup', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (21893, 'NURS', '697A', '16', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'Raymund Gantioque', 'TBA', '00:00:00', '00:00:00', 'TBA');
-INSERT INTO CLASS VALUES (21894, 'NURS', '697A', '17', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'Jean O'Neil', 'TBA', '00:00:00', '00:00:00', 'TBA');
+INSERT INTO CLASS VALUES (21894, 'NURS', '697A', '17', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'Jean O\'Neil', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (21895, 'NURS', '697A', '18', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'Christina Recinos', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (21896, 'NURS', '697A', '19', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'To Announced', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (21897, 'NURS', '697A', '20', 'Integrative Clinical Scholarship I: Evidence-Based Practice', '2022', 'SPRING', 'Elizabeth Winokur', 'TBA', '00:00:00', '00:00:00', 'TBA');
@@ -7403,8 +7403,8 @@ INSERT INTO CLASS VALUES (16671, 'POSC', '321', '01', 'Research in Public Manage
 INSERT INTO CLASS VALUES (17937, 'POSC', '321', '02', 'Research in Public Management', '2022', 'SPRING', 'Yuan Ting', 'GH 319 Seminar', '11:03:00', '24:04:00', 'MW');
 INSERT INTO CLASS VALUES (17555, 'POSC', '322', '01', 'Leadership for Public Service', '2022', 'SPRING', 'Sigrid Williams', 'LH 401 Lecture Room', '19:00:00', '21:45:00', 'M');
 INSERT INTO CLASS VALUES (17632, 'POSC', '324', '01', 'Nonprofit Organizations', '2022', 'SPRING', 'Michelle Arsneault', 'GH 248 Lecture Room', '16:00:00', '17:15:00', 'TuTh');
-INSERT INTO CLASS VALUES (16195, 'POSC', '330', '01', 'Politics in Nation-States', '2022', 'SPRING', 'Valerie O'Regan', 'LH 401A Lecture Room', '08:30:00', '09:45:00', 'MW');
-INSERT INTO CLASS VALUES (17093, 'POSC', '330', '02', 'Politics in Nation-States', '2022', 'SPRING', 'Valerie O'Regan', 'LH 401A Lecture Room', '13:00:00', '14:15:00', 'MW');
+INSERT INTO CLASS VALUES (16195, 'POSC', '330', '01', 'Politics in Nation-States', '2022', 'SPRING', 'Valerie O\'Regan', 'LH 401A Lecture Room', '08:30:00', '09:45:00', 'MW');
+INSERT INTO CLASS VALUES (17093, 'POSC', '330', '02', 'Politics in Nation-States', '2022', 'SPRING', 'Valerie O\'Regan', 'LH 401A Lecture Room', '13:00:00', '14:15:00', 'MW');
 INSERT INTO CLASS VALUES (17177, 'POSC', '340', '01', 'Political Philosophy', '2022', 'SPRING', 'Aaron Berg', 'SGMH 1117 Lecture', '08:30:00', '09:45:00', 'MW');
 INSERT INTO CLASS VALUES (16707, 'POSC', '340', '02', 'Political Philosophy', '2022', 'SPRING', 'Brian Lovato', 'LH 308 Lecture Room', '13:00:00', '14:15:00', 'MW');
 INSERT INTO CLASS VALUES (16769, 'POSC', '350', '01', 'International Relations', '2022', 'SPRING', 'Simon Tang', 'LH 401A Lecture Room', '16:00:00', '17:15:00', 'MW');
