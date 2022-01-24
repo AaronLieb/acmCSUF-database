@@ -602,7 +602,7 @@ INSERT INTO CLASS VALUES (11754, 'ART', '338A', '02', 'Creative Photography', '2
 INSERT INTO CLASS VALUES (10032, 'ART', '338A', '03', 'Creative Photography', '2022', 'SPRING', 'To Announced', 'VA-E295 Teaching Lab', '13:00:00', '18:45:00', 'Tu');
 INSERT INTO CLASS VALUES (10621, 'ART', '338A', '04', 'Creative Photography', '2022', 'SPRING', 'Justin Cole', 'VA-E295 Teaching Lab', '09:00:00', '11:04:00', 'MW');
 INSERT INTO CLASS VALUES (10568, 'ART', '347A', '01', 'Printmaking Etching', '2022', 'SPRING', 'The Nguyen', 'VA-D181 Teaching Lab', '09:00:00', '15:45:00', 'F');
-INSERT INTO CLASS VALUES (10614, 'ART', '348', '02', 'Artists' Books', '2022', 'SPRING', 'Elizabeth Holster', 'VA-D180 Teaching Lab', '09:00:00', '15:45:00', 'F');
+INSERT INTO CLASS VALUES (10614, 'ART', '348', '02', 'Artists\' Books', '2022', 'SPRING', 'Elizabeth Holster', 'VA-D180 Teaching Lab', '09:00:00', '15:45:00', 'F');
 INSERT INTO CLASS VALUES (11648, 'ART', '353B', '01', 'Animation Production', '2022', 'SPRING', 'Wendy Grieb', 'VA-E189 Teaching Lab', '09:00:00', '11:04:00', 'TuTh');
 INSERT INTO CLASS VALUES (11647, 'ART', '353A', '02', 'Animation Preproduction', '2022', 'SPRING', 'Charles Grieb', 'VA-E185 Teaching Lab', '13:00:00', '15:45:00', 'TuTh');
 INSERT INTO CLASS VALUES (11649, 'ART', '353B', '02', 'Animation Production', '2022', 'SPRING', 'Wendy Grieb', 'VA-E189 Teaching Lab', '09:00:00', '15:45:00', 'F');
@@ -645,7 +645,7 @@ INSERT INTO CLASS VALUES (10043, 'ART', '413', '01', 'History of Contemporary Ar
 INSERT INTO CLASS VALUES (11627, 'ART', '424A', '01', 'Glass Blowing', '2022', 'SPRING', 'Hiromi Takizawa', 'VA-C140 Teaching Lab/VA-B130 Glass Studio', '16:00:00', '18:45:00', 'M/W');
 INSERT INTO CLASS VALUES (11628, 'ART', '424B', '01', 'Glass Blowing', '2022', 'SPRING', 'Hiromi Takizawa', 'VA-C140 Teaching Lab/VA-B130 Glass Studio', '16:00:00', '18:45:00', 'M/W');
 INSERT INTO CLASS VALUES (11834, 'ART', '431', '01', 'Renaissance Art', '2022', 'SPRING', 'Nancy Adams', 'CPAC 148 Lecture Room/WEB Hybrid Instruction', '19:00:00', '21:45:00', 'Th/TBA');
-INSERT INTO CLASS VALUES (10615, 'ART', '448', '02', 'Special Studies: Artists' Books and Art', '2022', 'SPRING', 'Elizabeth Holster', 'VA-D180 Teaching Lab', '09:00:00', '15:45:00', 'F');
+INSERT INTO CLASS VALUES (10615, 'ART', '448', '02', 'Special Studies: Artists\' Books and Art', '2022', 'SPRING', 'Elizabeth Holster', 'VA-D180 Teaching Lab', '09:00:00', '15:45:00', 'F');
 INSERT INTO CLASS VALUES (11631, 'ART', '453B', '01', 'Exhibition Design', '2022', 'SPRING', 'Camila Maroja', 'VA-A107 Teaching Lab', '09:00:00', '11:04:00', 'MF');
 INSERT INTO CLASS VALUES (11630, 'ART', '453A', '01', 'Exhibition Design', '2022', 'SPRING', 'Camila Maroja', 'VA-A107 Teaching Lab', '09:00:00', '11:04:00', 'MF');
 INSERT INTO CLASS VALUES (22015, 'ART', '455C', '01', '3D Team Production', '2022', 'SPRING', 'Andrew Fedak', 'VA-E189 Teaching Lab/WEB Hybrid Instruction', '13:00:00', '15:45:00', 'M/TBA');
@@ -762,7 +762,7 @@ INSERT INTO CLASS VALUES (11827, 'ART', '508A', '02', 'Graduate Problems in Crea
 INSERT INTO CLASS VALUES (11824, 'ART', '510', '01', 'Graduate Problems: The Digital Studio', '2022', 'SPRING', 'Julie Orser', 'VA-E287 Teaching Lab/WEB Hybrid Instruction', '09:00:00', '11:04:00', 'M/TBA');
 INSERT INTO CLASS VALUES (11533, 'ART', '511', '01', 'Seminar on the Content and Method of Art History', '2022', 'SPRING', 'Joanna Roche', 'VA-A107 Teaching Lab', '19:00:00', '21:45:00', 'W');
 INSERT INTO CLASS VALUES (11600, 'ART', '512', '01', 'Seminar on Selected Topics in Art History', '2022', 'SPRING', 'Christopher Slogar', 'CPAC 146 Lecture Room', '16:00:00', '18:45:00', 'Tu');
-INSERT INTO CLASS VALUES (11690, 'ART', '548', '02', 'Graduate Problems in Artists' Books', '2022', 'SPRING', 'Elizabeth Holster', 'VA-D180 Teaching Lab', '09:00:00', '15:45:00', 'F');
+INSERT INTO CLASS VALUES (11690, 'ART', '548', '02', 'Graduate Problems in Artists\' Books', '2022', 'SPRING', 'Elizabeth Holster', 'VA-D180 Teaching Lab', '09:00:00', '15:45:00', 'F');
 INSERT INTO CLASS VALUES (11497, 'ART', '563C', '01', 'Graduate Studies in Digital Narrative Illustration', '2022', 'SPRING', 'Nicole Yang', 'VA-E292 Teaching Lab', '09:00:00', '11:04:00', 'MW');
 INSERT INTO CLASS VALUES (11825, 'ART', '578', '01', 'Graduate Studio Expanded: Other Genre', '2022', 'SPRING', 'Linda Kroff', 'VA-E295 Teaching Lab', '13:00:00', '18:45:00', 'W');
 INSERT INTO CLASS VALUES (11729, 'ART', '579', '01', 'Graduate Video Art and the Moving Image', '2022', 'SPRING', 'Julie Orser', 'VA-E287 Teaching Lab/WEB Hybrid Instruction', '13:00:00', '15:45:00', 'Tu/TBA');
