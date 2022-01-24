@@ -7837,10 +7837,10 @@ INSERT INTO CLASS VALUES (15595, 'PUBH', '342', '56', 'Stress Management', '2022
 INSERT INTO CLASS VALUES (15597, 'PUBH', '342', '57', 'Stress Management', '2022', 'SPRING', 'Jalynn Garcia', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15607, 'PUBH', '342', '58', 'Stress Management', '2022', 'SPRING', 'Jalynn Garcia', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15613, 'PUBH', '342', '59', 'Stress Management', '2022', 'SPRING', 'Dominick Sturz', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
-INSERT INTO CLASS VALUES (15644, 'PUBH', '349', '01', 'Measurement and Statistics in Health Science', '2022', 'SPRING', 'Pimbucha Rusmevichientong', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA/Tu/Tu');
+INSERT INTO CLASS VALUES (15644, 'PUBH', '349', '01', 'Measurement and Statistics in Health Science', '2022', 'SPRING', 'Pimbucha Rusmevichientong', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA/Tu');
 INSERT INTO CLASS VALUES (15579, 'PUBH', '349', '02', 'Measurement and Statistics in Health Science', '2022', 'SPRING', 'Kevin Cummins', 'KHS 272 Computer Lab', '11:03:00', '24:04:00', 'TuTh');
 INSERT INTO CLASS VALUES (15610, 'PUBH', '349', '03', 'Measurement and Statistics in Health Science', '2022', 'SPRING', 'Kevin Cummins', 'KHS 164 Lecture Room', '14:30:00', '15:45:00', 'TuTh');
-INSERT INTO CLASS VALUES (15593, 'PUBH', '349', '04', 'Measurement and Statistics in Health Science', '2022', 'SPRING', 'Alice Lee', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA/Tu/Tu/Tu/Tu/Tu');
+INSERT INTO CLASS VALUES (15593, 'PUBH', '349', '04', 'Measurement and Statistics in Health Science', '2022', 'SPRING', 'Alice Lee', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA/Tu');
 INSERT INTO CLASS VALUES (15612, 'PUBH', '349', '50', 'Measurement and Statistics in Health Science', '2022', 'SPRING', 'Shana Charles', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15712, 'PUBH', '349L', '50', 'Applied Measurement and Statistics in Health Science', '2022', 'SPRING', 'Lohuwa Mamudu', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15619, 'PUBH', '349', '51', 'Measurement and Statistics in Health Science', '2022', 'SPRING', 'Shana Charles', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
@@ -7947,7 +7947,7 @@ INSERT INTO CLASS VALUES (15657, 'PUBH', '499', '19', 'Independent Study', '2022
 INSERT INTO CLASS VALUES (15682, 'PUBH', '499', '20', 'Independent Study', '2022', 'SPRING', 'To Announced', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15683, 'PUBH', '499', '21', 'Independent Study', '2022', 'SPRING', 'To Announced', 'TBA', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15761, 'PUBH', '501', '01', 'Advanced Methods in Epidemiology', '2022', 'SPRING', 'Jasmeet Gill', 'KHS 164 Lecture Room', '19:00:00', '21:45:00', 'Tu');
-INSERT INTO CLASS VALUES (22182, 'PUBH', '524', '01', 'Public Health Administration', '2022', 'SPRING', 'Portia Preston', 'WEB Hybrid Instruction/KHS 164 Lecture Room/KHS 164 Lecture Room/KHS 164 Lecture Room/KHS 164 Lecture Room/KHS 164 Lecture Room/KHS 164 Lecture Room/KHS 164 Lecture Room/KHS 164 Lecture Room', '00:00:00', '00:00:00', 'TBA');
+INSERT INTO CLASS VALUES (22182, 'PUBH', '524', '01', 'Public Health Administration', '2022', 'SPRING', 'Portia Preston', 'WEB Hybrid Instruction/KHS 164 Lecture Room', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (22181, 'PUBH', '540', '01', 'Advanced Study in Health Promotion and Disease Prevention', '2022', 'SPRING', 'Joshua Yang', 'Hum 409 Lecture Room', '16:00:00', '18:45:00', 'Tu');
 INSERT INTO CLASS VALUES (15585, 'PUBH', '595', '01', 'MPH Student Internship', '2022', 'SPRING', 'To Announced', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (15577, 'PUBH', '595', '02', 'MPH Student Internship', '2022', 'SPRING', 'To Announced', 'TBA', '00:00:00', '00:00:00', 'TBA');
@@ -8022,7 +8022,7 @@ INSERT INTO CLASS VALUES (14207, 'READ', '290', '51', 'Critical Reading, Thinkin
 INSERT INTO CLASS VALUES (14208, 'READ', '290', '52', 'Critical Reading, Thinking and Literacy', '2022', 'SPRING', 'Joanne Chapman', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (14233, 'READ', '290', '53', 'Critical Reading, Thinking and Literacy', '2022', 'SPRING', 'Joanne Chapman', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (14266, 'READ', '290', '54', 'Critical Reading, Thinking and Literacy', '2022', 'SPRING', 'Blanca Rojas', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
-INSERT INTO CLASS VALUES (14357, 'READ', '340', '01', 'Promoting Early Language and Literacy Development in Diverse Children', '2022', 'SPRING', 'Joanne Chapman', 'WEB Hybrid Instruction/EC 24 Teaching Lab/EC 24 Teaching Lab/EC 24 Teaching Lab/EC 24 Teaching Lab/EC 24 Teaching Lab/EC 24 Teaching Lab/EC 24 Teaching Lab/EC 24 Teaching Lab', '00:00:00', '00:00:00', 'TBA');
+INSERT INTO CLASS VALUES (14357, 'READ', '340', '01', 'Promoting Early Language and Literacy Development in Diverse Children', '2022', 'SPRING', 'Joanne Chapman', 'WEB Hybrid Instruction/EC 24 Teaching Lab', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (21848, 'READ', '360', '01', 'Literacy Education for Social Change', '2022', 'SPRING', 'Julian Jefferies', 'LH 320A Computer Lab', '10:00:00', '24:04:00', 'Tu');
 INSERT INTO CLASS VALUES (14355, 'READ', '507', '52', 'Literacy in the Academic Disciplines', '2022', 'SPRING', 'Madeleine Mejia', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (14451, 'READ', '507', '56', 'Literacy in the Academic Disciplines', '2022', 'SPRING', 'Madeleine Mejia', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
