@@ -30,7 +30,7 @@ CREATE TABLE IF NOT EXISTS CLASS (
 	location VARCHAR(32),
 	startTime TIME,
 	endTime TIME,
-	days CHAR(4),
+	days CHAR(8),
 	PRIMARY KEY(id)
 );
 
