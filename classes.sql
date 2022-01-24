@@ -1,3 +1,4 @@
+USE ACM;
 INSERT INTO CLASS VALUES (12179, 'ACCT', '201B', '01', 'Managerial Accounting', '2022', 'SPRING', 'Randy Hoffman', 'SGMH 1502 Lecture', '13:00:00', '14:15:00', 'TuTh');
 INSERT INTO CLASS VALUES (11982, 'ACCT', '201A', '01', 'Financial Accounting', '2022', 'SPRING', 'Randy Hoffman', 'SGMH 1502 Lecture', '08:30:00', '09:45:00', 'TuTh');
 INSERT INTO CLASS VALUES (12178, 'ACCT', '201B', '02', 'Managerial Accounting', '2022', 'SPRING', 'Aleksandra Uchlik', 'SGMH 2201 Lecture', '10:00:00', '11:01:00', 'TuTh');
