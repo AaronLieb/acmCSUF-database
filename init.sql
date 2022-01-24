@@ -27,7 +27,7 @@ CREATE TABLE IF NOT EXISTS CLASS (
 	`year` YEAR,
 	semester CHAR(6),
 	instructor VARCHAR(32),
-	location VARCHAR(64),
+	location VARCHAR(128),
 	startTime TIME,
 	endTime TIME,
 	days CHAR(16),
