@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS COURSECHANNEL (
 	`number` CHAR(4),
 	discordChannel CHAR(18),
 	PRIMARY KEY(subject, number)
-):
+);
 
 CREATE TABLE IF NOT EXISTS DISCORDSCHEDULE (
 	discordId CHAR(18),
