@@ -23,7 +23,7 @@ CREATE TABLE IF NOT EXISTS CLASS (
 	subject CHAR(4),
 	`number` CHAR(4),
 	section TINYINT(2),
-	`name` VARCHAR(64),
+	`name` VARCHAR(128),
 	`year` YEAR,
 	semester CHAR(6),
 	instructor VARCHAR(32),
