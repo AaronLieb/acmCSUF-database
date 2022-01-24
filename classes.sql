@@ -2734,7 +2734,7 @@ INSERT INTO CLASS VALUES (12811, 'CTVA', '100', '50', 'Introduction to Cinema an
 INSERT INTO CLASS VALUES (13252, 'CTVA', '102', '01', 'Inside The Movies', '2022', 'SPRING', 'Michael Dillon', 'Hum 110 Lecture Room', '19:00:00', '22:00:00', 'M');
 INSERT INTO CLASS VALUES (21870, 'CTVA', '220', '01', 'TV Studio Production', '2022', 'SPRING', 'Mark Depping', 'PLS068 Lecture', '13:00:00', '14:40:00', 'Tu');
 INSERT INTO CLASS VALUES (21871, 'CTVA', '220', '02', 'TV Studio Production', '2022', 'SPRING', 'Mark Depping', 'PLS049 Television Studio', '14:45:00', '17:15:00', 'Tu');
-INSERT INTO CLASS VALUES (12848, 'CTVA', '250', '01', 'Writing Short Scripts', '2022', 'SPRING', 'Jennifer O'Kieffe', 'CP 126 Lecture Room', '10:00:00', '24:04:00', 'F');
+INSERT INTO CLASS VALUES (12848, 'CTVA', '250', '01', 'Writing Short Scripts', '2022', 'SPRING', 'Jennifer O\'Kieffe', 'CP 126 Lecture Room', '10:00:00', '24:04:00', 'F');
 INSERT INTO CLASS VALUES (21952, 'CTVA', '250', '02', 'Writing Short Scripts', '2022', 'SPRING', 'David Morgasen', 'CP 125 Lecture Room', '19:00:00', '21:45:00', 'Tu');
 INSERT INTO CLASS VALUES (12844, 'CTVA', '300', '50', 'Language of Film', '2022', 'SPRING', 'Jacqueline Frost', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
 INSERT INTO CLASS VALUES (20532, 'CTVA', '300', '51', 'Language of Film', '2022', 'SPRING', 'Robert Davis', 'WEB Fully Online Instruction', '00:00:00', '00:00:00', 'TBA');
